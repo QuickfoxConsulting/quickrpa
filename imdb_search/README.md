@@ -17,32 +17,32 @@ After the robot completes the task, the output file can be found in `output` fol
 
 1. Input Excel file having movies' name
 
-![input excel](/assets/images/input.png)
+![input excel](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/input.png)
 
 2. Outpu Excel file after required infos are appended
 
-![output](/assets/images/output.png)
+![output](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/output.png)
 
 ### Snapshots of how movies are filtered and selected to get rating, storyline, tagline, & genres
 
 1. Robot opening browser and searching movie.
 
-![Robot Opening Browser and and searching movie](/assets/images/1.png)
+![Robot Opening Browser and and searching movie](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/1.png)
 
 2. Filter movie based on `Movie` only
 
-![Select Movie Only](/assets/images/2.png)
+![Select Movie Only](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/2.png)
 
 3. Filter again based on exact title match provided on search
 
-![Search Exact title match](/assets/images/3.png)
+![Search Exact title match](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/3.png)
 
 4. Select the latest movies if movies have more than one list after filter
 
-![Selected Movie](/assets/images/4.png)
+![Selected Movie](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/4.png)
 
 5. When no search result are found, or exact title match option not found
-![No search result](/assets/images/5.png)
+![No search result](https://github.com/QuickfoxConsulting/quickrpa/blob/bhuwan/imdb_search/assets/images/5.png)
 
 
 ## Development guide
