@@ -1,0 +1,16 @@
+tasks:
+  Run all tasks:
+    # remove tasks.robot when working with control room
+    shell: python -m robot --report NONE --outputdir output --logtitle "Task log" tasks.robot
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - keywords
+  - libraries
+  - variables
+  
+ignoreFiles:
+  - .gitignore
