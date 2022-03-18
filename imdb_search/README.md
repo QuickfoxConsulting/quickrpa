@@ -1,6 +1,6 @@
 # README for the IMDb Movie's Rating, Storyline, Tagline, and Genres
 
-IMDb robot fetches the rating, storyline, tagline and genres from the [IMDB](https://imdb.com)website. The list of the movies are given in excel file which is included in `excel_file` directory named `imdb.xlsx`. After retreiving rating, storyline, taglines and genres, the robot will append the information in the same excel file and finally copy it into output folder.
+IMDb robot fetches the rating, storyline, tagline and genres from the [IMDB](https://imdb.com) website. The list of the movies are given in excel file which is included in `excel_file` directory named `imdb.xlsx`. After retreiving rating, storyline, taglines and genres, the robot will append the information in the same excel file and finally copy it into output folder.
 
 It uses [rpaframework] (http://rpaframework.org) Selenium library to automate the process.
 
